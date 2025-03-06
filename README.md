@@ -6,6 +6,7 @@
 
 **Sample of image, prediction and target plotted**
 Key running hyperparameters:
+
   * learning rate = 0.005
   * batch size = 8
   * weight decay = 0.0005
