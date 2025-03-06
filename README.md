@@ -5,6 +5,7 @@
 ![target_chart](images/target.png)
 
 **Sample of image, prediction and target plotted**
+
 Key running hyperparameters:
 
   * learning rate = 0.005
