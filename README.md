@@ -26,4 +26,4 @@ Key running hyperparameters include a learning rate of 0.005, a batch size of 8,
 
 **Future work**
 
-Future work will focus on extending the training with more epochs and implementing a learning rate scheduler. Additionally, we aim to expand the model's capabilities to handle more complex chart types and improve overall accuracy.
+Future work will focus on extending the training with more epochs and implementing a learning rate scheduler and hyperparameter tuning. Additionally, we aim to expand the model's capabilities to handle more complex chart types and improve overall accuracy.
