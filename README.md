@@ -22,7 +22,7 @@ Key running hyperparameters include a learning rate of 0.005, a batch size of 8,
     
 ![bar_chart](images/bar_chart.png)
 
-![dot_chart](images/dot_chart.png)
+![line_chart](images/line_chart.png)
 
 **Future work**
 
