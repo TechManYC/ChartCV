@@ -18,7 +18,7 @@ The model was trained and tested on a dataset of 60k images, consisting of both 
 
 **Sample of image, prediction and target plotted**
 
-Key running hyperparameters include a learning rate of 0.005, a batch size of 8, weight decay of 0.0005, and 1 epoch of training.
+Key running hyperparameters include a learning rate of 0.005, a batch size of 8, and weight decay of 0.0005.
     
 ![bar_chart](images/bar_chart.png)
 
